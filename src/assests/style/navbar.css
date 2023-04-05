@@ -1,0 +1,25 @@
+.wrapper{
+    padding:15px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 48px;
+
+}
+
+.bar{
+    display: flex;
+    position: relative;
+    backdrop-filter: blur(10px);
+    background-color: rgba(251, 251, 253, 0.317);
+    border-radius: 10px;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bar p{
+    margin:0px;
+    padding:0px;
+}
